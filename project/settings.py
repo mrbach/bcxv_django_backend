@@ -26,6 +26,7 @@ SECRET_KEY = 'y(z4=o4%k*gx$pfdjm2*1ww6hrm=y_vh-4bbqdx4z3_ie^a3+6'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    '157.245.116.14',
     'djangoapp',
     'localhost'
 ]
