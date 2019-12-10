@@ -25,7 +25,10 @@ SECRET_KEY = 'y(z4=o4%k*gx$pfdjm2*1ww6hrm=y_vh-4bbqdx4z3_ie^a3+6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'djangoapp',
+    'localhost'
+]
 
 
 # Application definition
